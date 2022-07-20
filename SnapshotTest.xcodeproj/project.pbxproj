@@ -898,7 +898,6 @@
 				OTHER_LDFLAGS = (
 					"-weak_framework",
 					XCTest,
-					"-weak-lswiftXCTest",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.SnapshotTest.SnapshotTest-iOS";
 				PRODUCT_NAME = SnapshotTest;
@@ -927,7 +926,6 @@
 				OTHER_LDFLAGS = (
 					"-weak_framework",
 					XCTest,
-					"-weak-lswiftXCTest",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.SnapshotTest.SnapshotTest-iOS";
 				PRODUCT_NAME = SnapshotTest;
@@ -980,7 +978,6 @@
 				OTHER_LDFLAGS = (
 					"-weak_framework",
 					XCTest,
-					"-weak-lswiftXCTest",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.SnapshotTest.SnapshotTest-tvOS";
 				PRODUCT_NAME = SnapshotTest;
@@ -1009,7 +1006,6 @@
 				OTHER_LDFLAGS = (
 					"-weak_framework",
 					XCTest,
-					"-weak-lswiftXCTest",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.SnapshotTest.SnapshotTest-tvOS";
 				PRODUCT_NAME = SnapshotTest;
